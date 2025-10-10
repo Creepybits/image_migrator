@@ -1,6 +1,9 @@
 # Image Migrator
 A Python script to help AI enthusiasts reclaim disk space by migrating large collections of generated images to a secondary drive.
 
+## NOTE  
+I've created a script that is easier and safer to use, as well as easier to edit. If you are not comfortable with this script, check out the [Interactive_Media_Migrator](https://github.com/Creepybits/Interactive_Media_Migrator)
+
 ___
 
 > [!CAUTION]
